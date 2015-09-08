@@ -11,7 +11,7 @@ Community Bundle of the **lightweight** PHP-Framework for **high-performance** w
 ## Table of Contents
 
 - [Install »](#install)
-- [Features »](https://github.com/clickalicious/Doozr/blob/master/README.md)
+- [Features »](https://github.com/clickalicious/Doozr/blob/master/README.md#features)
 - [License »](https://github.com/clickalicious/Doozr/blob/master/LICENSE)
 
 ## Install
