@@ -7,8 +7,7 @@
   },
   "minimum-stability": "dev",
   "config": {
-    "bin-dir": "bin",
-    "preferred-install": "source"
+    "preferred-install": "dist"
   },
   "scripts": {
     "post-install-cmd": [
