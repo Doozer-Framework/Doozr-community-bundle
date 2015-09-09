@@ -24,4 +24,4 @@ The Bundle consists of
 
 and is just a shortcut to the manual installation of `Doozr` no more, no less.
 
-To try `Doozr` just clone this repository `git clone https://github.com/clickalicious/Doozr.git .` and run `composer install` *Composer* will then install `Doozr`
+To try `Doozr` just clone this repository `git clone https://github.com/clickalicious/Doozr-community-bundle.git .` and run `composer install` *Composer* will then install `Doozr` and an example project.
