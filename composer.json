@@ -1,0 +1,18 @@
+{
+  "name": "clickalicious/Doozr-community-bundle",
+  "description": "This Bundle helps you getting started with Doozr in just seconds.",
+  "require": {
+    "php": ">=5.5.0",
+    "clickalicious/doozr": "~0.1.0"
+  },
+  "minimum-stability": "dev",
+  "config": {
+    "bin-dir": "bin",
+    "preferred-install": "source"
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "DoozR_Installer_Framework::postInstall"
+    ]
+  }
+}
