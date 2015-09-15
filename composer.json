@@ -13,5 +13,9 @@
     "post-install-cmd": [
       "DoozR_Installer_Framework::postInstall"
     ]
+  },
+  "config": {
+    "bin-dir": "bin",
+    "preferred-install": "dist"
   }
 }
