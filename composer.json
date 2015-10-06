@@ -6,9 +6,6 @@
     "clickalicious/doozr": "~0.1.0"
   },
   "minimum-stability": "dev",
-  "config": {
-    "preferred-install": "dist"
-  },
   "scripts": {
     "post-install-cmd": [
       "DoozR_Installer_Framework::postInstall"
@@ -17,5 +14,5 @@
   "config": {
     "bin-dir": "bin",
     "preferred-install": "dist"
-  }
+  },
 }
