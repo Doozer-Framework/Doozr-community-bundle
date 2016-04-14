@@ -6,7 +6,7 @@
 
 | [![Build Status](https://img.shields.io/travis/clickalicious/Doozr.svg)](https://travis-ci.org/clickalicious/Doozr) 	| [![Scrutinizer](https://img.shields.io/scrutinizer/g/clickalicious/Doozr.svg)](https://scrutinizer-ci.com/g/clickalicious/Doozr/) 	| [![Code Coverage](https://scrutinizer-ci.com/g/clickalicious/Doozr/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/clickalicious/Doozr/?branch=master) 	| [![clickalicious open source](https://img.shields.io/badge/clickalicious-open--source-green.svg?style=flat)](https://www.clickalicious.de/) 	|
 |---	|---	|---	|---	|
-| [![GitHub release](https://img.shields.io/github/release/clickalicious/Doozr.svg?style=flat)](https://github.com/clickalicious/Doozr/releases) 	|  [![Packagist](https://img.shields.io/packagist/dt/clickalicious/Doozr.svg?maxAge=2592000)](https://packagist.org/packages/clickalicious/doozr)  	| [![VersionEye](https://www.versioneye.com/user/projects/54cf3e45de7924b9e4000483/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54cf3e45de7924b9e4000483?child=summary) 	| [![Packagist](https://img.shields.io/packagist/l/clickalicious/Doozr.svg?style=flat)](http://opensource.org/licenses/BSD-3-Clause)  	|
+| [![GitHub release](https://img.shields.io/github/release/clickalicious/Doozr.svg?style=flat)](https://github.com/clickalicious/Doozr/releases) 	|  [![Packagist](https://img.shields.io/packagist/dt/clickalicious/Doozr.svg?maxAge=2592000)](https://packagist.org/packages/clickalicious/doozr)  	| [![Packagist](https://img.shields.io/packagist/l/clickalicious/Doozr.svg?style=flat)](http://opensource.org/licenses/BSD-3-Clause) 	| [![VersionEye](https://www.versioneye.com/user/projects/54cf3e45de7924b9e4000483/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54cf3e45de7924b9e4000483?child=summary)  	|
 
 
 ## Table of Contents
@@ -19,7 +19,7 @@
 
 ## Features
 
- - Guided Install
+ - Guided Installation
  - Automatic preconfiguring
 
 
@@ -35,15 +35,15 @@ You will need the following tools to install `Doozr`:
 
 ## Install
 
-The installation of `Doozr` is really easy. All you need to do to install `Doozr` and the **Demo** project is the following:
+The installation of `Doozr` is really easy. Just enter the following commands to install `Doozr` and the `Demo` project:
 
-1. `clone` the project from github.com with `git`:
+1. `clone` the project from *github.com* with `git`:
 ```bash
 git clone https://github.com/clickalicious/Doozr-community-bundle.git .
 ```
 
 2. Install dependencies and call `Doozr's` install routine with `composer`:
-```shell
+```bash
 composer install
 ``` 
 
