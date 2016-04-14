@@ -1,15 +1,32 @@
 {
-  "name": "clickalicious/Doozr-community-bundle",
-  "description": "This Bundle helps you getting started with Doozr in just seconds.",
+  "name": "clickalicious/doozr-community-bundle",
+  "description": "Getting started with Doozr in just seconds by using this bundle.",
+  "type": "metapackage",
   "require": {
     "php": ">=5.5.0",
-    "clickalicious/doozr": "~0.1.0"
+    "clickalicious/doozr": "*"
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
   "scripts": {
     "post-install-cmd": [
-      "DoozR_Installer_Framework::postInstall"
+      "Doozr_Installer_Framework::postInstall"
     ]
+  },
+  "keywords": [
+    "Doozr",
+    "Community",
+    "Bundle",
+    "Tryout",
+    "Test",
+    "Prototyping"
+  ],
+  "homepage": "https://github.com/clickalicious/Doozr-community-bundle",
+  "license": "BSD-3-Clause",
+  "support": {
+    "email": "opensource@clickalicious.de",
+    "issues": "https://github.com/clickalicious/Doozr-community-bundle/issues",
+    "wiki": "https://github.com/clickalicious/Doozr-community-bundle/wiki"
   },
   "config": {
     "bin-dir": "bin",
